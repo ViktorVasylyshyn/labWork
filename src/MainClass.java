@@ -41,7 +41,7 @@ public class MainClass {
 //        panel.setSize(500, 500);
 //        panel.setVisible(true);
 
-        // 9. Draw Ellipse
+        // 8. Draw Ellipse
 //        new AnimateEllipse();
     }
 }
